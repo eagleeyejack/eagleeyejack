@@ -1,16 +1,15 @@
-### Hi there 👋
+### Alright? 👋🏻
 
-<!--
-**eagleeyejack/eagleeyejack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-stack developer at Code & Wander in London. 
 
-Here are some ideas to get you started:
+### Currently working with 🔭
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React, React Native, TypeScript, Node.js, Serverless, GraphQL.
+- Hooks, Apollo, Styled Components.
+- Next, Gatsby & Vue.
+
+### Currently learning 🌱
+
+- Data Structures and Algorithms
+- C++
+
