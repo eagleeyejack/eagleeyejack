@@ -1,6 +1,6 @@
 ### Alright? 👋🏻
 
-I'm a Full-stack developer at Code & Wander in London. 
+I'm a Full Stack developer at Code & Wander in London. 
 
 ### Currently working with 🔭
 
