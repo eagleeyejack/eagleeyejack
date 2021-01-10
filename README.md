@@ -11,5 +11,4 @@ I'm a Full Stack developer at Code & Wander in London.
 ### Currently learning 🌱
 
 - Data Structures and Algorithms
-- Java
 
