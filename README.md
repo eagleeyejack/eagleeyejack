@@ -1,6 +1,6 @@
 ### Alright? 👋🏻
 
-I'm a Full Stack developer at Code & Wander in London. 
+I'm a Software Engineer at Holland and Barrett.
 
 ### Currently working with 🔭
 
