@@ -1,6 +1,6 @@
 ### Alright? 👋🏻
 
-I'm a Software Engineer at Holland and Barrett.
+I'm a Software Engineer at LloydsDirect.
 
 ### Currently working with 🔭
 
